@@ -149,5 +149,9 @@
     }
     .container article:last-child {
         border-radius: 0 0.625rem 0.625rem;
+        margin-top: 0;
+    }
+    picture img {
+        height: 100%;
     }
 }
